@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/ryanbelushi">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanbelushi&show_icons=true&theme=midnight-purple">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbelushi&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img  width= "50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanbelushi&show_icons=true&theme=midnight-purple">
+   <img width= "50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbelushi&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
