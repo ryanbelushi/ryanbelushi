@@ -1,10 +1,12 @@
-## Olá, sou o Ryan e atualmente estudo desenvolvimento front-end e pretendo me tornar full stack.
+## Olá! Eu sou Ryan Belushi
 
-- 🌱 Atualmente estou estudando typescript, angular e react
+
+ 
+- Estudande de análise e desenvolvimento de sistemas pela Estácio
 
 <div align="center">
   <a href="https://github.com/ryanbelushi">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanbelushi&show_icons=true&theme=midnight-purple">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanbelushi&show_icons=true&theme=midnight-purple">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanbelushi&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
